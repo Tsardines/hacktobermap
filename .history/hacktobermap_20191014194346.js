@@ -336,12 +336,6 @@ var hacktobermap = [
     longitude: -3.749220
   },
   {
-    name: "Tsardines",
-    location: "New York City",
-    latitude: 40.712776,
-    longitude: -74.005974
-  },
-  {
     name: "Moksh",
     location: "Chandigarh",
     latitude: 30.733315,
